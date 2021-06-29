@@ -1,4 +1,4 @@
-var a="" //put your string in here
+var a="" //put your minified css in here
 var  b=a.split("px")
 var c=[]
 for(var i=0;i<b.length-1;i++){
